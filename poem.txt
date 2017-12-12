@@ -3,5 +3,6 @@ Violet
 Indigo
 Blue
 Green
+Yellow
 
 There are colors of rainbow
