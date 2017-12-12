@@ -4,5 +4,6 @@ Indigo
 Blue
 Green
 Yellow
+Orange
 
 There are colors of rainbow
