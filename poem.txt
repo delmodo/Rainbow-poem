@@ -1,5 +1,5 @@
 Unicon is here.
-
+Pony is here.
 Colors-
 Violet
 Indigo
@@ -7,7 +7,8 @@ Blue
 Green
 Yellow
 Orange
+These are colors of rainbow
 
-There are colors of rainbow
 Creatures- 
-Unikaur
+Unicorn
+Ponyyy
